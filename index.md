@@ -1,6 +1,6 @@
 
 # My Portfolio of work.
 
-| Job |Link|
-|:-:||:-:|
+|Job|Link|
+|:--:||:--:|
 |[DELTA]|[Earnings Analysis]()|
