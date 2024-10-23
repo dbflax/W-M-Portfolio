@@ -3,4 +3,4 @@
 
 | Job |Link|
 |:--:||:--:|
-|[DELTA][Earnings Analysis]()|
+|[DELTA]|[Earnings Analysis]()|
